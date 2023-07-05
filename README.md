@@ -14,3 +14,4 @@ We’re going to make a Magic 8 Ball app. You can ask the app to make all your h
 
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
+<img src="https://github.com/Alexander2990/Magic-8-Ball-iOS13/assets/64682381/0e4d15fa-d201-4d05-829f-5ace3feb4efa" width="200" />
